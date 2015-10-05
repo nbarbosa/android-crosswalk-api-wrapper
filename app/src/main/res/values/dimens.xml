@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="activity_margin">16dip</dimen>
+    <dimen name="btn_padding">10dip</dimen>
+    <dimen name="content_centered_padding">30dip</dimen>
+    <dimen name="loading_icon_width">120dip</dimen>
+    <dimen name="loading_icon_height">120dip</dimen>
+</resources>
